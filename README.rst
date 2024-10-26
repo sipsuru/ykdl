@@ -119,8 +119,6 @@ DEFAULT_FORMAT = "mp4"
 - 邮箱: your_email@example.com
 - GitHub: [LifeActor](https://github.com/LifeActor)
 
-```
-
 ### 特殊说明
 
 - **我们不主动支持VIP资源解析和下载**：项目仅供研学，进行二次开发扩展所造成的法律问题本项目不负连带责任。
