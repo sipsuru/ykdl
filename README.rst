@@ -116,7 +116,7 @@ DEFAULT_FORMAT = "mp4"
 
 如有任何问题或建议，请通过以下方式联系我：
 
-- 邮箱: your_email@example.com
+- 邮箱: we7soft@gmail.com
 - GitHub: [LifeActor](https://github.com/LifeActor)
 
 ### 特殊说明
