@@ -21,7 +21,7 @@
 
 ```bash
 python3 --version
-```
+
 
 ### 创建虚拟环境
 
